@@ -4,3 +4,8 @@ main: kr.hightechnyangtoml.headcosmetics.HeadCosmetics
 api-version: '1.21'
 authors: [Hightechnyangtoml, LovelyMoca]
 description: Head Cosmetics
+commands:
+  headcosmetics:
+    description: basic command
+    usage: /headcosmetics [open/make/help]
+    aliases: hc
