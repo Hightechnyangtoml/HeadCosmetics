@@ -1,0 +1,6 @@
+name: HeadCosmetics
+version: '${version}'
+main: kr.hightechnyangtoml.headcosmetics.HeadCosmetics
+api-version: '1.21'
+authors: [Hightechnyangtoml, LovelyMoca]
+description: Head Cosmetics
